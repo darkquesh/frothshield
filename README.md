@@ -17,13 +17,18 @@ A wireless temperature reading project with STM32L4 NUCLEO board that prevents m
 - ESP32-CAM development board
 - Buzzer
 
+## Design Flow
+
+<img src="./assets/images/flowchart.jpg" alt="Wiring Diagram" width="400"/>
+
+## Project Overview
+
+<img src="./assets/images/project_overview.png" alt="Project Overview" width="500"/>
+
 ## Wiring
 
 <img src="./assets/images/wiring.png" alt="Wiring Diagram" width="400"/>
 
-## Design Flow
-
-<img src="./assets/images/flowchart.jpg" alt="Wiring Diagram" width="400"/>
 
 ## References
 
