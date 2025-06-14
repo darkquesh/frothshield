@@ -4,6 +4,10 @@ A wireless temperature reading project with STM32L4 NUCLEO board that prevents m
 
 <img src="./assets/images/FrothShield.png" alt="FrothShield" width="600"/>
 
+## Temperature Plot
+
+<img src="./assets/images/temp_plot_milk.jpg" alt="tempplot" width="400"/>
+
 ## Components Used  
 
 - STM32 NUCLEO-L452RE-P development board
